@@ -50,7 +50,7 @@ This project was developed as a learning exercise to strengthen:
     How to run it:
 
 1. Clone this repository -
-`git clone https://github.com/Epic10ka/Inventory´
+git clone https://github.com/Epic10ka/Inventory
 
 2. Navigate to the project folder:
 cd stock-python
