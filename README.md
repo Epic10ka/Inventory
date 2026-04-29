@@ -47,7 +47,7 @@ This project was developed as a learning exercise to strengthen:
 
 -To improve problem-solving skills and gain practical experience building functional software and data structure.
 
-    How to run it:
+    How to run:
 
 1. Clone this repository -
 git clone https://github.com/Epic10ka/Inventory
